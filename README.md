@@ -1,1 +1,2 @@
-Code with fun
+Code with fun 
+Code it easy!
